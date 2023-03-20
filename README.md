@@ -1,7 +1,7 @@
 # DFS_and_BFS_tree_traversal
 
 This program mimics the search function seen in file systems using a tree and traversing via Depth First Search and Breadth First Search.
-This program uses a test tree made from scratch with dummy variables as practice for DFS and BFS.
+This program uses a test tree made from scratch with dummy variables as practice for DFS and BFS. It is written in Python.
 
 Depth First Search (DFS) is a traversal algorithm for a tree or graph that starts at the root node and explores as far as possible along each branch before backtracking. 
 
